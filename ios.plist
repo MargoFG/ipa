@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>包下载地址</string>
+					<string>https://download.fgtop.cn/nb.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>57*57图片, https:开头</string>
+					<string>https://download.fgtop.cn/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>512*512图片, https:开头</string>
+					<string>https://download.fgtop.cn/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>包名</string>
+				<string>demo.fgtop.cn</string>
 				<key>bundle-version</key>
-				<string>版本号</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>软件名</string>
+				<string>牛逼的Demo</string>
 			</dict>
 		</dict>
 	</array>
